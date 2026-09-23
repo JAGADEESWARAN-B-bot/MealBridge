@@ -1,0 +1,6 @@
+{
+  "name": "MealBridge",
+  "description": "Community Food Sharing Platform — Share Food. Reduce Waste. Help Someone Today.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

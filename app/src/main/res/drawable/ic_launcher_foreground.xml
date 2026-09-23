@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Steaming warmth / heart silhouette above bowl -->
+    <path
+        android:fillColor="#F97316"
+        android:pathData="M54,30 C51,26 44,26 44,32 C44,38 54,44 54,44 C54,44 64,38 64,32 C64,26 57,26 54,30 Z" />
+
+    <!-- Fresh sprout leaf on right -->
+    <path
+        android:fillColor="#86EFAC"
+        android:pathData="M59,28 C67,25 72,30 70,36 C64,36 61,33 59,28 Z" />
+
+    <!-- Food Bowl Rim / Top Surface -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M31,48 C31,46 33,45 36,45 L72,45 C75,45 77,46 77,48 C77,50 75,51 72,51 L36,51 C33,51 31,50 31,48 Z" />
+
+    <!-- Food Bowl Body -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M33,51 C34,67 43,76 54,76 C65,76 74,67 75,51 L33,51 Z" />
+
+    <!-- Bowl accent band (Orange community warmth) -->
+    <path
+        android:fillColor="#F97316"
+        android:pathData="M37,56 C42,65 48,70 54,70 C60,70 66,65 71,56 L73,59 C67,68 61,73 54,73 C47,73 41,68 35,59 Z" />
+
+    <!-- Bowl Base / Pedestal -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M44,76 L64,76 C65,76 66,77 65,79 L63,80 C62,81 61,81 60,81 L48,81 C47,81 46,81 45,80 L43,79 C42,77 43,76 44,76 Z" />
+
+    <!-- Compassionate Caring Hands Under Bowl -->
+    <path
+        android:fillColor="#E2E8F0"
+        android:pathData="M27,62 C29,66 33,70 38,72 L36,75 C30,73 26,68 24,63 C23,61 25,60 27,62 Z" />
+    <path
+        android:fillColor="#E2E8F0"
+        android:pathData="M81,62 C79,66 75,70 70,72 L72,75 C78,73 82,68 84,63 C85,61 83,60 81,62 Z" />
+</vector>
